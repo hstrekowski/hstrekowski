@@ -1,4 +1,5 @@
-# 👋 Hello World! My Name is Hubert
+# Hi 👋 I'm Hubert
+
 <br>🌱 I’m currently learning C#, ASP.NET, Entity Framework & SQL<br>🛠️ Working hard to become a .NET Developer<br>
 
 <!-- Templata na przyszłość jak bede miał swoje reps
