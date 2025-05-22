@@ -1,21 +1,25 @@
-# Hi 👋 I'm Hubert
-
-<br>🌱 I’m currently learning C#, ASP.NET, Entity Framework & SQL<br>🛠️ Working hard to become a .NET Developer<br>
 
 <!-- Templata na przyszłość jak bede miał swoje reps
 [![Linux](https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux)](https://github.com/torvalds/linux)
 [![Subsurface](https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=subsurface)](https://github.com/torvalds/subsurface)
 -->
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hstrekowski&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hstrekowski&theme=dark&hide_border=false" />
-</div>
+```json
+{
+  "fullName": "Hubert Strękowski",
+  "role": "Aspiring .NET Developer",
+  "location": "Poland",
+  "learning": ["C#", "ASP.NET Core", "Entity Framework", "SQL"],
+  "techStack": ["C#", ".NET", "Git"],
+  "motto": "Keep it clean and simple",
 
-# 📈 LeetCode Stats
+  "leetcode": {
+    "username": "hstrekowski",
+    "statsCard": "[![LeetCode Stats](https://leetcard.jacoblin.cool/hstrekowski?theme=dark&font=Consolas&ext=contest)](https://leetcode.com/hstrekowski)"
+  },
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hstrekowski?theme=dark&font=Consolas&ext=contest)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  "pinnedRepos": [
+    "[![ToDo Manager](https://github-readme-stats.vercel.app/api/pin/?username=hstrekowski&repo=to_do_app&theme=dark)](https://github.com/hstrekowski/to_do_app)",
+    "[![Currency Chart](https://github-readme-stats.vercel.app/api/pin/?username=hstrekowski&repo=currency_chart&theme=dark)](https://github.com/hstrekowski/currency_chart)"
+  ]
+}
