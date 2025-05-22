@@ -23,3 +23,5 @@
     "[![Currency Chart](https://github-readme-stats.vercel.app/api/pin/?username=hstrekowski&repo=currency_chart&theme=dark)](https://github.com/hstrekowski/currency_chart)"
   ]
 }
+```
+![LeetCode Stats](https://leetcard.jacoblin.cool/hstrekowski?ext=contest)
