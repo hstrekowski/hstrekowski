@@ -1,6 +1,8 @@
 # 👋 Hello World! My Name is Hubert
 <br>🌱 I’m currently learning C#, ASP.NET, Entity Framework & SQL<br>🛠️ Working hard to become a .NET Developer<br>
 
+![Linux](https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux)
+![Subsurface](https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=subsurface)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
