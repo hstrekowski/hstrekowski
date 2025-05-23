@@ -1,5 +1,37 @@
+# 🦾 Hubert Strękowski
 
-<!-- Templata na przyszłość jak bede miał swoje reps
-[![Linux](https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux)](https://github.com/torvalds/linux)
-[![Subsurface](https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=subsurface)](https://github.com/torvalds/subsurface)
--->
+**`Aspiring to be a .NET Developer`**
+
+I'm an aspiring developer who believes that code can solve real-life problems. I’m passionate about using technology to create meaningful, practical solutions that make everyday tasks easier or more efficient.
+Currently, I'm learning C# and ASP.NET Core to build modern, scalable web applications.
+
+My goal is to create software that has practical applications and delivers real value to users. On my profile, you'll find projects that reflect my learning journey and passion for development.
+
+---
+
+<!-- Tutaj będą TOP PROJECTS jak już je zrobie -->
+
+### 🛠 Tech Stack
+<img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+<img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />                  
+          
+
+<br/>
+
+#
+
+### 📊 Stats
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hstrekowski&show_icons=true&theme=github_dark)
+<a href="https://leetcode.com/hstrekowski/">
+  <img src="https://leetcard.jacoblin.cool/hstrekowski?theme=dark&ext=contest" alt="LeetCode Stats"/>
+</a>-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hstrekowski&show_icons=true&theme=dark" alt="GitHub Stats" height="200"/>
+  <a href="https://leetcode.com/hstrekowski/">
+    <img src="https://leetcard.jacoblin.cool/hstrekowski?theme=dark&ext=contest" alt="LeetCode Stats" height="200"/>
+  </a>
+</p>
+
+
