@@ -22,15 +22,11 @@ My goal is to create software that has practical applications and delivers real 
 #
 
 ### 📊 Stats
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hstrekowski&show_icons=true&theme=github_dark)
-<a href="https://leetcode.com/hstrekowski/">
-  <img src="https://leetcard.jacoblin.cool/hstrekowski?theme=dark&ext=contest" alt="LeetCode Stats"/>
-</a>-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hstrekowski&show_icons=true&theme=dark" alt="GitHub Stats" width="40%" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hstrekowski&show_icons=true&theme=dark" alt="GitHub Stats" width="50%" height="200"/>
   <a href="https://leetcode.com/hstrekowski/">
-    <img src="https://leetcard.jacoblin.cool/hstrekowski?theme=dark&ext=contest" alt="LeetCode Stats" width="40%" height="200"/>
+    <img src="https://leetcard.jacoblin.cool/hstrekowski?theme=dark&ext=contest" alt="LeetCode Stats" width="50%" height="200"/>
   </a>
 </p>
 
