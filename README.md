@@ -23,8 +23,9 @@ My goal is to create software that has practical applications and delivers real 
 
 ### 📊 Stats
 
-![Twoje statystyki GitHub](https://github-readme-stats.vercel.app/api?username=hstrekowski&show_icons=true&theme=dark)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/hstrekowski?theme=dark&)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hstrekowski&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://leetcard.jacoblin.cool/hstrekowski?theme=dark&" alt="LeetCode Stats" />
+</p>
 
 
