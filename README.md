@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Hubert Strękowski
 
- **`Aspiring Full Stack Developer`**
+**<h4>`Aspiring Full Stack Developer`</h4>**
 
 I'm an aspiring developer who believes that code can solve **real-life problems**.
 
