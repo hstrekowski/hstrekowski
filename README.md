@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Hubert Strękowski
 
- *`Aspiring Full Stack Developer`*
+ _**`Aspiring Full Stack Developer`**_
 
 I'm an aspiring developer who believes that code can solve **real-life problems**.
 
@@ -36,10 +36,9 @@ My goal is to create software that has practical applications and delivers real 
 
   <img src="https://www.codewars.com/users/hstrekowski/badges/large" width="40%"/>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hstrekowski&show_icons=true&count_private=true&theme=dark&hide_border=true" width="28.4%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hstrekowski&theme=dark&hide_border=true" width="30%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hstrekowski&layout=compact&theme=dark&hide_border=true" width="39.4%"/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=hstrekowski&show_icons=true&count_private=true&theme=dark&hide_border=true" width="46%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hstrekowski&theme=dark&hide_border=true" width="49%"/>
   </div>
 
 </details>
