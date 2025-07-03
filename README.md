@@ -7,7 +7,6 @@ I'm an aspiring developer who believes that code can solve **real-life problems*
 I’m passionate about using technology to create meaningful, practical solutions that make everyday tasks **easier** or **more efficient**.
 Currently, I'm learning **C#** and **ASP.NET Core** to build modern, scalable web applications
 
-My goal is to create software that has practical applications and delivers real value to users. On my profile, you'll find projects that reflect my learning journey and passion for development
 #
 
 <!-- Tutaj będą TOP PROJECTS jak już je zrobie -->
