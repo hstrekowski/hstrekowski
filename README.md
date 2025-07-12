@@ -1,7 +1,6 @@
 # 🏋️‍♂️ Hubert Strękowski
 
 **<h4>`  Aspiring Full Stack Developer  `</h4>**
-
 I'm an aspiring developer who believes that code can solve **real-life problems**
 
 I’m passionate about using technology to create meaningful, practical solutions that make everyday tasks **easier** or **more efficient**.
