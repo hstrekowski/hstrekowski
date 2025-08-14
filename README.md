@@ -8,7 +8,6 @@ I’m a Computer Science student at Gdańsk University of Technology with a stro
 Currently, I’m diving deep into **C#** and **ASP.NET Core** to develop modern, scalable web applications — combining academic knowledge with hands-on projects to turn ideas into reality.
 
 #
-
 <!-- Tutaj będą TOP PROJECTS jak już je zrobie -->
 ### 🛠 Tech Stack
 
