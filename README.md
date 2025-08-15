@@ -3,7 +3,7 @@
 **<h4>`  Aspiring Full Stack Developer  `</h4>**
 I'm an aspiring developer who believes that code can solve **real-life problems**
 
-I’m a Computer Science student at Gdańsk University of Technology with a strong passion for using technology to create meaningful, practical solutions that make everyday tasks easier and more efficient
+I’m a **Computer Science** student at **Gdańsk University of Technology** with a strong passion for using technology to create meaningful, practical solutions that make everyday tasks easier and more efficient
 
 Currently, I’m diving deep into **C#** and **ASP.NET Web API** to develop modern, scalable web applications — combining academic knowledge with hands-on projects to turn ideas into reality
 
