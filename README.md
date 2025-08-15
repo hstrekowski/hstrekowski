@@ -24,6 +24,8 @@ Currently, I’m diving deep into **C#** and **ASP.NET Web API** to develop mode
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
+
 
    
 <br/><br/>
