@@ -32,7 +32,7 @@ Currently, I’m diving deep into  **MS SQL** and **Entity Framework Core** to d
 
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-<br/><br/><br/>
+<br/><br/>
 
 #
 
