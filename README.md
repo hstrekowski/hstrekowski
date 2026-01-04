@@ -16,6 +16,7 @@ Currently, I’m diving deep into  **MS SQL** and **Entity Framework Core** to d
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://i.imgur.com/7fMWSss.png" />
+<img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />  
@@ -26,10 +27,10 @@ Currently, I’m diving deep into  **MS SQL** and **Entity Framework Core** to d
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-<img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
 
 <br/><br/>
 
+<img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
 
