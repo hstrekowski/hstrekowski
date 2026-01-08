@@ -48,8 +48,8 @@ Currently, I’m diving deep into  **MS SQL** and **Entity Framework Core** to d
   <img src="https://www.codewars.com/users/hstrekowski/badges/large" width="40%"/>
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=hstrekowski&show_icons=true&count_private=true&theme=dark&hide_border=true" width="46%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hstrekowski&theme=dark&hide_border=true" width="49%"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hstrekowski&show_icons=true&theme=dark" width="46%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hstrekowski&bg_color=0d1117&color=ffffff&line=39d353&point=ffffff&area=true&hide_border=true)" width="70%"/>
   </div>
 
 </details>
