@@ -2,7 +2,7 @@
 
 **<h4>`  Aspiring Full Stack Developer  `</h4>**
 
-I’m a 20-year-old **Computer Science** student at **Gdańsk University of Technology** focusing on building software to solve problems
+I’m a 20-year-old **Computer Science** student @ **Gdańsk University of Technology** focusing on building software to solve problems
 
 Currently, I’m learning  **MS SQL** and **Entity Framework Core** to develop web applications in .NET ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
 
