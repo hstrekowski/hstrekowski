@@ -2,9 +2,9 @@
 
 **<h4>`  Aspiring Full Stack Developer  `</h4>**
 
-I’m a **Computer Science** student at **Gdańsk University of Technology** with a strong passion for using technology to create meaningful, practical solutions that make everyday tasks easier and more efficient
+I’m a **Computer Science** student at **Gdańsk University of Technology** focusing on building software to solve problems
 
-Currently, I’m diving deep into  **MS SQL** and **Entity Framework Core** to develop modern, scalable web applications — combining academic knowledge with hands-on projects to turn ideas into reality
+Currently, I’m learning  **MS SQL** and **Entity Framework Core** to develop web applications in .NET ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
 
 #
 
@@ -29,8 +29,6 @@ Currently, I’m diving deep into  **MS SQL** and **Entity Framework Core** to d
 
 <br/><br/>
 
-<img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
 
 <br/><br/>
