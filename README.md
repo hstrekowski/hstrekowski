@@ -30,23 +30,3 @@ Currently, I’m learning  **MS SQL** and **Entity Framework Core** to develop w
 <br/><br/>
 
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
-
-<br/><br/>
-
-#
-
-### 📊 Stats
-
-<details>
-  <summary></summary>
-
-  <br/>
-
-  <img src="https://www.codewars.com/users/hstrekowski/badges/large" width="40%"/>
-
-  <div>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hstrekowski&show_icons=true&theme=dark" width="46%"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hstrekowski&bg_color=0d1117&color=ffffff&line=39d353&point=ffffff&area=true&hide_border=true)" width="70%"/>
-  </div>
-
-</details>
