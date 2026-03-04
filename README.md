@@ -4,7 +4,7 @@
 
 I’m a 20-year-old **Computer Science** student @ **Gdańsk University of Technology** focusing on building software to solve problems
 
-Currently, I’m learning  **ASP.NET Core Web API** and **Entity Framework Core** to develop web applications in .NET ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
+Currently, I’m learning  **TypeScript** and **Angular** to develop web applications with backend in .NET ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
 
 #
 
@@ -20,8 +20,8 @@ Currently, I’m learning  **ASP.NET Core Web API** and **Entity Framework Core*
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />  
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-<!-- <img align="left" width="40px;" style="padding-right: 30px;" src="https://github.com/user-attachments/assets/710c9932-0856-482f-aa08-41a1dad25a7a" /> -->
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<!-- Tutaj będzie xUnit -->
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
