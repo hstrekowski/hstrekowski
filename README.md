@@ -21,7 +21,7 @@ Currently, I’m learning  **TypeScript** and **Angular** to develop web applica
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<!-- Tutaj będzie xUnit -->
+<img align="left" width="40px;" style="padding-right: 30px;" src="https://api.nuget.org/v3-flatcontainer/xunit/2.6.0/icon" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
