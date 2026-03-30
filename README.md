@@ -8,8 +8,6 @@ Currently, I’m learning  **Clean Architecture** and **CRQS** to develop web ap
 
 #
 
-<!-- Tutaj będą TOP PROJECTS jak już je zrobie -->
-
 ### 🛠 Tech Stack
 
 <img align="left" width="40px;" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
