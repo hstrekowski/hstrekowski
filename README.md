@@ -4,7 +4,7 @@
 
 I’m a 20-year-old **Computer Science** student @ **Gdańsk University of Technology** focusing on building software to solve problems
 
-Currently, I’m learning  **Clean Architecture** and **CRQS** to develop web applications in .NET ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
+Currently, I’m learning  **Clean Architecture** and **CQRS** to develop web applications in .NET ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
 
 #
 
