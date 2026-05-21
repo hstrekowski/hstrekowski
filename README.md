@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Hubert Strękowski
 
-**<h4>`  Aspiring Full Stack Developer  `</h4>**
+**<h4>`  Full Stack Developer  `</h4>**
 
 I’m a 20-year-old **Computer Science** student @ **Gdańsk University of Technology** focusing on building software to solve problems
 
