@@ -2,7 +2,7 @@
 
 **<h4>`  Full Stack Developer  `</h4>**
 
-I’m a 20-year-old **Computer Science** student @ **Gdańsk University of Technology** focusing on building software to solve problems
+I’m a 21-year-old **Computer Science** student @ **Gdańsk University of Technology** focusing on building software to solve problems
 
 Currently working @ **Net PC**
 
