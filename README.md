@@ -6,7 +6,7 @@ I’m a 21-year-old **Computer Science** student @ **Gdańsk University of Techn
 
 Currently working @ **Net PC**
 
-I’m learning  **Clean Architecture** and **CQRS** to develop web applications in .NET ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
+I’m learning  **SCSS** to develop web applications in .NET ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
 
 #
 
