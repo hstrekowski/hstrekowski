@@ -6,7 +6,7 @@ I’m a 21-year-old **Computer Science** student @ **Gdańsk University of Techn
 
 Currently working @ **Net PC**
 
-I’m learning  **SCSS** to develop web applications in .NET ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
+Currently learning **Linux** to build, deploy and run full-stack web applications in the **.NET** ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
 
 #
 
