@@ -4,9 +4,9 @@
 
 I’m a 21-year-old **Computer Science** student @ **Gdańsk University of Technology** focusing on building software to solve problems
 
-Currently working @ **Net PC**
+Working @ **Net PC**
 
-Currently learning **Linux** to build, deploy and run full-stack web applications in the **.NET** ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
+Currently learning **Docker** and **Kubernetes** to build, deploy and run full-stack web applications in the **.NET** ecosystem — combining academic knowledge with hands-on projects to turn ideas into reality
 
 #
 
